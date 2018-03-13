@@ -1,6 +1,6 @@
 ## Memory game
 
-You can play game here (https://github.com/Heartlezz/memory-game).
+You can play game here (https://heartlezz.github.io/memory-game/).
 
 ### Rules
 When game starts, randomly 9 from 52 cards will be choosen and doubled. 
